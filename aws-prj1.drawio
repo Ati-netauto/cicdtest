@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T12:24:19.120Z" agent="5.0 (Windows)" etag="rATBydE2xneo54m-jgze" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T12:24:53.980Z" agent="5.0 (Windows)" etag="eI69Lyhwxe7dF7tc74Un" version="20.8.1" type="github">
   <diagram id="ue87R6VUES_bF4nc-Uwk" name="Single region">
-    <mxGraphModel dx="1635" dy="594" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="721" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IuL7JJnTpbOqwNsqgbpm-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" parent="1" vertex="1">
-          <mxGeometry x="430" y="120" width="50" height="50" as="geometry" />
+          <mxGeometry x="429" y="163" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IuL7JJnTpbOqwNsqgbpm-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
-          <mxGeometry x="416.29" y="80" width="27.43" height="30" as="geometry" />
+          <mxGeometry x="432" y="133" width="27.43" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuL7JJnTpbOqwNsqgbpm-4" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="290" width="855" height="590" as="geometry" />
+          <mxGeometry x="40" y="290" width="855" height="554" as="geometry" />
         </mxCell>
         <mxCell id="IuL7JJnTpbOqwNsqgbpm-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="IuL7JJnTpbOqwNsqgbpm-4" source="IuL7JJnTpbOqwNsqgbpm-5" target="IuL7JJnTpbOqwNsqgbpm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="156" y="43" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="IuL7JJnTpbOqwNsqgbpm-22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
-          <mxGeometry x="443.72" y="80" width="27.43" height="30" as="geometry" />
+          <mxGeometry x="457" y="139" width="27.43" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XyblbKmrqFtppWj2g4WV-2" value="AWS WAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="60" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XyblbKmrqFtppWj2g4WV-9" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="250" width="1020" height="670" as="geometry" />
+          <mxGeometry x="-30" y="250" width="1020" height="621" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
